@@ -1,5 +1,5 @@
 // Styling for the navbar
-#mainNav {
+#mainNav, #footNav {
   border-bottom: 1px solid fade-out($gray-900, .9);
   background-color: $white;
   @include sans-serif-font;
