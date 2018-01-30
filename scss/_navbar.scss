@@ -1,4 +1,7 @@
 // Styling for the navbar
+#footNav {
+  text-align: end;
+}
 #mainNav, #footNav {
   border-bottom: 1px solid fade-out($gray-900, .9);
   background-color: $white;
